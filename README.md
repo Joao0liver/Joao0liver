@@ -1,4 +1,47 @@
-## Hi there 👋
+<div>
+    <img src="https://widgetbite.com/banner?title=Jo%C3%A3o%20Augusto&subtitle=Estudante%20de%20S.I.&backgroundpalette=harvest&fontpalette=none&titletransform=skew&subtitletransform=rotate" width=100% height=100%/>
+</div>
+
+
+
+<div>
+    <hr>
+    <ul dir="auto">
+        <li>📚 Atualmente cursando Técnico em Desenvolvimento de Sistemas no SENAI e Bacharelado em Sistemas de Informação na Fundação de Ensino e Pesquisa de Itajubá (FEPI).</li>
+        <li>📈 Sempre buscando novas oportunidades de aprendizado, colaboração e networking!</li>
+    </ul>
+    <details close>
+        <summary><strong>➕ Sobre Mim</strong></summary>
+        <ul dir="auto">
+            <li>💽 Sou apaixonado por tecnologia desde que me conheço por gente, sempre fascinado pelas diversas possibilidades de criação que ela oferecia, seja para auxiliar em alguma atividade mundana ou até na gestão de algo mais complexo.</li>
+            <li>🛠️ Vamos juntos impulsionar a inovação e criar um futuro digital brilhante!</li>
+        </ul>
+    </details>
+</div>
+
+
+<div>
+  <a href="https://github.com/Joao0liver">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0liver&show_icons=true&show=prs_merged&theme=great-gatsby&include_all_commits=true&count_private=true&rank_icon=github"/>
+</div>
+
+<div style="display1; inline_block"><br>
+    <h2>👨‍💻 Hard Skills</h2>
+    <h3>Linguagens de Programação</h3>
+  <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+          
+  <h3>Ferramentas e Banco de Dados</h3>
+  <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
+  <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
+  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.simpleicons.org/figma" />
+  <img align="center" alt="PhpMyAdmin" height="40" width="50" src="https://cdn.simpleicons.org/phpmyadmin" />
+  <img align="center" alt="MariaDB" height="40" width="50" src="https://cdn.simpleicons.org/mariadb" />
+
+<hr size="20">
 
 <!--
 **Joao0liver/Joao0liver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
