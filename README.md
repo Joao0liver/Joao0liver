@@ -11,7 +11,7 @@
         <li>📈 Sempre buscando novas oportunidades de aprendizado, colaboração e networking!</li>
     </ul>
     <details close>
-        <summary><strong>➕ Sobre Mim</strong></summary>
+        <summary><strong>➕ Sobre Mim</strong></summary><br>
         <ul dir="auto">
             <li>💽 Sou apaixonado por tecnologia desde que me conheço por gente, sempre fascinado pelas diversas possibilidades de criação que ela oferecia, seja para auxiliar em alguma atividade mundana ou até na gestão de algo mais complexo.</li>
             <li>🛠️ Vamos juntos impulsionar a inovação e criar um futuro digital brilhante!</li>
