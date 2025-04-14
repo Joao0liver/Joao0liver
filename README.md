@@ -25,13 +25,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0liver&show_icons=true&show=prs_merged&theme=great-gatsby&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
-<div style="display1; inline_block"><br>
+<div style="display1; inline_block">
     <h2>👨‍💻 Hard Skills</h2>
     <h3>Linguagens de Programação</h3>
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.simpleicons.org/html5" />
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.simpleicons.org/css3" />
     <img align="center" alt="PHP" height="40" width="50" src="https://cdn.simpleicons.org/php" />
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.simpleicons.org/python" />
           
           
   <h3>Ferramentas e Banco de Dados</h3>
