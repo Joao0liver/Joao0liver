@@ -34,7 +34,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.simpleicons.org/css3" />
           
           
-  <h3>Ferramentas e Banco de Dados</h3>
+  <h3>Ferramentas</h3>
   <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
   <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.simpleicons.org/figma" />
