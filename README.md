@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0liver&show_icons=true&show=prs_merged&theme=great-gatsby&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/>
 </div>
 
-<div style="display1; inline_block" align="center">
+<div style="display1; inline_block">
     <h3>Linguagens de Programação</h3>
     <img align="center" alt="PHP" height="40" width="50" src="https://cdn.simpleicons.org/php" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.simpleicons.org/python" />
