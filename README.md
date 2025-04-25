@@ -27,18 +27,21 @@
 
 <div style="display1; inline_block">
     <h3>Linguagens de Programação</h3>
+    <div align="center">
     <img align="center" alt="PHP" height="40" width="50" src="https://cdn.simpleicons.org/php" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.simpleicons.org/python" />
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.simpleicons.org/html5" />
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.simpleicons.org/css3" />
-          
+    </div>        
           
   <h3>Ferramentas e Banco de Dados</h3>
+  <div align="center">
   <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
   <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.simpleicons.org/figma" />
   <img align="center" alt="PhpMyAdmin" height="40" width="50" src="https://cdn.simpleicons.org/phpmyadmin" />
   <img align="center" alt="MariaDB" height="40" width="50" src="https://cdn.simpleicons.org/mariadb" />
+  </div>
 
 <hr size="20">
 
