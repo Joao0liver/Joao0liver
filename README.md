@@ -26,14 +26,14 @@
 </div>
 
 <div style="display1; inline_block" align="center">
-    <h3 align="center">Linguagens de Programação</h3>
+    <h3>Linguagens de Programação</h3>
     <img align="center" alt="PHP" height="40" width="50" src="https://cdn.simpleicons.org/php" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.simpleicons.org/python" />
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.simpleicons.org/html5" />
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.simpleicons.org/css3" />
           
           
-  <h3 align="center">Ferramentas e Banco de Dados</h3>
+  <h3>Ferramentas e Banco de Dados</h3>
   <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
   <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.simpleicons.org/figma" />
