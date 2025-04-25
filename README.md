@@ -42,6 +42,12 @@
   <img align="center" alt="PhpMyAdmin" height="40" width="50" src="https://cdn.simpleicons.org/phpmyadmin" />
   <img align="center" alt="MariaDB" height="40" width="50" src="https://cdn.simpleicons.org/mariadb" />
   </div>
+  
+  <h3>Contato</h3>
+
+  <a href="https://www.linkedin.com/in/joaoaugoliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 
 <hr size="20">
 
