@@ -42,6 +42,8 @@
   <img align="center" alt="PhpMyAdmin" height="40" width="50" src="https://cdn.simpleicons.org/phpmyadmin" />
   <img align="center" alt="MariaDB" height="40" width="50" src="https://cdn.simpleicons.org/mariadb" />
   </div>
+
+<hr>
   
   <h3>Contato</h3>
 
