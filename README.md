@@ -27,7 +27,7 @@
 
 <div style="display1; inline_block">
     <h3>Linguagens de Programação</h3>
-    <div align="center">
+    <div>
     <img align="center" alt="PHP" height="40" width="50" src="https://cdn.simpleicons.org/php" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.simpleicons.org/python" />
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.simpleicons.org/html5" />
@@ -35,7 +35,7 @@
     </div>        
           
   <h3>Ferramentas e Banco de Dados</h3>
-  <div align="center">
+  <div>
   <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
   <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.simpleicons.org/figma" />
