@@ -39,9 +39,9 @@
   <div>
       <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
       <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
-      <img align="center" alt="Figma" height="40" width="50" src="https://cdn.simpleicons.org/figma" />
+      <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
       <img align="center" alt="PhpMyAdmin" height="40" width="50" src="https://cdn.simpleicons.org/phpmyadmin" />
-      <img align="center" alt="MariaDB" height="40" width="50" src="https://cdn.simpleicons.org/mariadb" />
+      <img align="center" alt="MariaDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
   </div>
 
 <hr>
