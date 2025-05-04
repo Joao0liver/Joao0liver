@@ -23,7 +23,7 @@
 <div align="center">
     <a href="https://github.com/Joao0liver">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0liver&show_icons=true&show=prs_merged&theme=great-gatsby&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0liver&layout=donut&theme=great-gatsby&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0liver&layout=donut&theme=great-gatsby&hide_border=true&count_private=true" />
 </div>
 
 <div style="display1; inline_block">
