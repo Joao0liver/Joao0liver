@@ -28,10 +28,11 @@
 <div style="display1; inline_block">
     <h3>Linguagens de Programação</h3>
     <div>
-    <img align="center" alt="PHP" height="40" width="50" src="https://cdn.simpleicons.org/php" />
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.simpleicons.org/python" />
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.simpleicons.org/html5" />
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.simpleicons.org/css3" />
+        <img align="center" alt="PHP" height="40" width="50" src="https://cdn.simpleicons.org/php" />
+        <img align="center" alt="Python" height="40" width="50" src="https://cdn.simpleicons.org/python" />
+        <img align="center" alt="Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+        <img align="center" alt="HTML" height="40" width="50" src="https://cdn.simpleicons.org/html5" />
+        <img align="center" alt="CSS" height="40" width="50" src="https://cdn.simpleicons.org/css3" />
     </div>        
           
   <h3>Ferramentas e Banco de Dados</h3>
