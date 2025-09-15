@@ -7,7 +7,7 @@
 <div>
     <hr>
     <ul dir="auto">
-        <li>📚 Formado como Técnico em Desenvolvimento de Sistemas no SENAI e cursando Bacharelado em Sistemas de Informação na Fundação de Ensino e Pesquisa de Itajubá (FEPI).</li>
+        <li>📚 Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando Bacharelado em Sistemas de Informação na Fundação de Ensino e Pesquisa de Itajubá (FEPI).</li>
         <li>📈 Sempre buscando novas oportunidades de aprendizado, colaboração e networking!</li>
     </ul>
     <details close>
