@@ -33,7 +33,7 @@
   <div>
       <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
       <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
-      <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+      <img align="center" alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
       <img align="center" alt="VisualStudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
       <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
       <img align="center" alt="SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
