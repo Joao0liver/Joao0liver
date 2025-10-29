@@ -1,10 +1,4 @@
 <div>
-    <img src="https://widgetbite.com/banner?title=Jo%C3%A3o%20Augusto&subtitle=Estudante%20de%20S.I.&backgroundpalette=harvest&fontpalette=none&titletransform=skew&subtitletransform=rotate" width=100% height=100%/>
-</div>
-
-
-
-<div>
     <hr>
     <ul dir="auto">
         <li>📚 Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando Bacharelado em Sistemas de Informação na Fundação de Ensino e Pesquisa de Itajubá (FEPI).</li>
