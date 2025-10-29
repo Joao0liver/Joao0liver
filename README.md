@@ -29,7 +29,7 @@
         <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     </div>        
           
-  <h3>Ferramentas e Banco de Dados</h3>
+  <h3>Ferramentas e Bancos de Dados</h3>
   <div>
       <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
       <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
