@@ -31,6 +31,7 @@
           
   <h3>Ferramentas e Bancos de Dados</h3>
   <div>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <i class="devicon-django-plain-wordmark"></i>
     <img align="center" alt="XAMPP" height="40" width="50" src="https://cdn.simpleicons.org/xampp" />
     <img align="center" alt="MkDocs" height="40" width="50" src="https://cdn.simpleicons.org/materialformkdocs" />
