@@ -1,6 +1,6 @@
 <div>
+    <h4>Analista de TI e Desenvolvedor</h4>
     <ul dir="auto">
-        <li>Analista de TI e Desenvolvedor</li>
         <li>🎓 Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando Bacharelado em Sistemas de Informação na Fundação de Ensino e Pesquisa de Itajubá (FEPI).</li>
         <li>🚀 Sempre buscando novos desafios, oportunidades de colaboração, aprendizado e networking!</li>
     </ul>
