@@ -1,14 +1,14 @@
 <div>
     <ul dir="auto">
         <li>Analista de TI e Desenvolvedor</li>
-        <li>📚 Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando Bacharelado em Sistemas de Informação na Fundação de Ensino e Pesquisa de Itajubá (FEPI).</li>
-        <li>📈 Sempre buscando novas oportunidades de aprendizado, colaboração e networking!</li>
+        <li>🎓 Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e cursando Bacharelado em Sistemas de Informação na Fundação de Ensino e Pesquisa de Itajubá (FEPI).</li>
+        <li>🚀 Sempre buscando novos desafios, oportunidades de colaboração, aprendizado e networking!</li>
     </ul>
     <details close>
         <summary><strong>➕ Sobre Mim</strong></summary><br>
         <ul dir="auto">
-            <li>💽 Sou apaixonado por tecnologia desde que me conheço por gente, sempre fascinado pelas diversas possibilidades de criação que ela oferecia, seja para auxiliar em alguma atividade mundana ou até na gestão de algo mais complexo.</li>
-            <li>🛠️ Vamos juntos impulsionar a inovação e criar um futuro digital brilhante!</li>
+            <li>💻 Atualmente, busco transformar conhecimentos acadêmicos e técnicos em soluções práticas - com interesse especial por desenvolvimento de sistemas e pela elaboração de soluções que unam tecnologia,                    organização e eficiência.</li>
+            <li>🛠️ Vamos construir soluções, compartilhar conhecimento e evoluir juntos!</li>
         </ul>
     </details>
 </div>
